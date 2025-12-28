@@ -50,7 +50,7 @@ pubspec.yaml → Project dependencies
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/CaptainFlip16/Flutter-Learning-App.git
+   git clone https://github.com/zakriaCoder/Flutter-Learning-Hub.git
 2. Open the project in Android Studio
 3. Install dependencies:
    flutter pub get
